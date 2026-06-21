@@ -35,3 +35,4 @@ let p=function t(){
 let g=p()??5;
 console.log(g);
 
+
